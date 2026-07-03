@@ -1,162 +1,233 @@
 # 🚀 LeetCode Solutions
 
-A curated collection of my LeetCode problem solutions covering algorithms, data structures, and competitive programming concepts.
+<div align="center">
+
+
+![GitHub Repo Stars](https://img.shields.io/github/stars/Ravularamesh74/leetcode?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/Ravularamesh74/leetcode?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Ravularamesh74/leetcode?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+
+ 
+![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)
+![Java](https://img.shields.io/badge/Java-Primary-red?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-DSA-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Algorithms-yellow?style=for-the-badge&logo=javascript)
+
+### 📚 Data Structures • Algorithms • Interview Preparation
+
+</div>
+
+---
 
 ## 👨‍💻 About
 
-This repository contains solutions to LeetCode problems solved using multiple programming languages including:
+Welcome to my **LeetCode Solutions Repository**.
 
-- JavaScript
-- Java
-- C++
-- C
-- Kotlin
-- Go
-
-The goal of this repository is to:
-
-- Improve problem-solving skills
-- Master Data Structures & Algorithms
-- Prepare for coding interviews
-- Track coding consistency
+This repository contains my solutions to LeetCode problems solved using multiple programming languages. My goal is to improve problem-solving skills, master Data Structures & Algorithms, and prepare for software engineering interviews.
 
 ---
 
-# 📂 Repository Structure
+## 📌 Languages
 
-Each folder represents a LeetCode problem.
+- ☕ Java
+- 🐍 Python
+- 🟨 JavaScript
+- 🔷 TypeScript
+- ⚙️ C++
+- 📘 C
 
-Example:
+---
 
-```bash
-1-two-sum/
-39-combination-sum/
-1428-jump-game-iii/
-48-rotate-image/
+## 📂 Repository Structure
+
+```
+leetcode/
+│
+├── 1-two-sum/
+├── 2-add-two-numbers/
+├── 3-longest-substring-without-repeating-characters/
+├── 39-combination-sum/
+├── 68-text-justification/
+├── 100-same-tree/
+├── 116-populating-next-right-pointers-in-each-node/
+├── 3299-find-the-maximum-number-of-elements-in-subset/
+├── ...
+└── README.md
 ```
 
-Each directory contains:
+Each folder contains:
 
-- Problem solution
-- Optimized approach
-- Clean and readable code
+- ✅ Problem Solution
+- ✅ Optimized Code
+- ✅ Best Time Complexity
+- ✅ Best Space Complexity
+- ✅ Clean & Readable Code
 
 ---
 
-# 🧠 Topics Covered
+## 🧠 Topics Covered
 
-## Arrays
+### Arrays
+
 - Two Sum
+- 3Sum
+- 4Sum
+- Maximum Subarray
 - Rotate Array
-- Maximum Distance
-- Separate Digits
+- Merge Sorted Array
 
-## Strings
-- Longest Substring Without Repeating Characters
+### Strings
+
 - Roman to Integer
-- Generate Parentheses
+- Longest Common Prefix
+- Valid Parentheses
+- Text Justification
+- Minimum Window Substring
 
-## Linked Lists
+### Linked Lists
+
 - Add Two Numbers
-- Merge Two Sorted Lists
-- Swap Nodes in Pairs
+- Merge Two Lists
+- Reverse Linked List
+- Reverse Nodes in K Group
+- Remove Nth Node
 
-## Graphs & BFS/DFS
+### Trees
+
+- Same Tree
+- Balanced Binary Tree
+- Validate BST
+- Binary Tree Maximum Path Sum
+- Flatten Binary Tree
+
+### Graphs
+
+- Word Ladder
 - Jump Game III
-- Valid Path in Grid
+- Jump Game IV
+- Surrounded Regions
 
-## Dynamic Programming
-- Maximum Dot Product
-- Minimum ASCII Delete Sum
+### Dynamic Programming
 
-## Matrix Problems
+- Climbing Stairs
+- Decode Ways
+- Edit Distance
+- Unique Paths
+- Maximum Path Sum
+
+### Backtracking
+
+- Combination Sum
+- Combination Sum II
+- N-Queens
+- Generate Parentheses
+- Subsets
+
+### Matrix
+
 - Rotate Image
+- Set Matrix Zeroes
 - Rotating the Box
-- Uni-Value Grid
 
 ---
 
-# ⚡ Languages Used
+## 📈 Progress
 
-| Language | Usage |
-|---|---|
-| JavaScript | Main Language |
-| Java | Secondary |
-| C++ | DSA Practice |
-| C | Fundamentals |
-| Kotlin | Competitive Coding |
-| Go | Performance Practice |
-
----
-
-# 📈 Progress
-
+- ✅ 150+ Problems Solved
 - ✅ Daily LeetCode Practice
-- ✅ Optimized Solutions
 - ✅ Interview Preparation
-- ✅ Multiple Language Implementations
+- ✅ Optimized Solutions
+- ✅ Multiple Programming Languages
 
 ---
 
-# 🛠️ Workflow
+## 🏆 Goals
 
-This repository is synced automatically using:
+- 🎯 Solve 500+ LeetCode Problems
+- 🎯 Master Data Structures
+- 🎯 Improve Algorithms
+- 🎯 Crack Product-Based Companies
+- 🎯 Maintain Daily Coding Streak
 
-- LeetSync
+---
+
+## 🛠️ Tools
+
+- LeetCode
 - GitHub
+- VS Code
+- LeetSync
 
 ---
 
-# 🎯 Goals
-
-- Solve 500+ LeetCode Problems
-- Strengthen DSA concepts
-- Crack top product-based company interviews
-- Maintain coding consistency
-
----
-
-# 🌟 Featured Problems
+## 🌟 Featured Problems
 
 | Problem | Difficulty |
-|---|---|
+|---------|------------|
 | Two Sum | Easy |
+| Add Two Numbers | Medium |
 | Combination Sum | Medium |
-| Jump Game III | Medium |
+| Rotate Image | Medium |
 | Median of Two Sorted Arrays | Hard |
-| Maximal Rectangle | Hard |
+| Text Justification | Hard |
+| Binary Tree Maximum Path Sum | Hard |
 
 ---
 
-# 📌 Notes
+## 📊 Repository Highlights
 
-- Solutions focus on readability and optimization.
-- Time and space complexity are considered carefully.
-- Problems are updated regularly.
+✔ Clean Code
+
+✔ Optimized Solutions
+
+✔ Interview-Oriented
+
+✔ Regular Updates
+
+✔ Well Organized
+
+✔ Multi-Language Solutions
 
 ---
 
-# 🔥 LeetCode Profile
+## 🤝 Connect With Me
 
-## 👤 Username
-`ravula_Ramesh`
+**GitHub**
+
+https://github.com/Ravularamesh74
+
+**LinkedIn**
+
+https://www.linkedin.com/in/ravula-ramesh-88561736a
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
 If you found this repository useful:
 
-- Star the repository ⭐
-- Fork the repository 🍴
-- Follow for more updates 🚀
+⭐ Star this repository
+
+🍴 Fork this repository
+
+📢 Share it with others
 
 ---
 
-# 📜 License
+## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
-# 🚀 Keep Coding. Keep Growing.
+<div align="center">
+
+## 🚀 Happy Coding!
+
+*"Success is the sum of small efforts repeated day after day."*
+
+⭐ **Don't forget to Star this Repository!**
+
+</div>
